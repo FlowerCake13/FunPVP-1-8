@@ -1,4 +1,4 @@
-# FunPVP-1-8
+# FunPVP-Mod
 Welcome mod (Minecraft/CanaryMod/ScriptCraft)
 
 FunPVP Mod group (Noah, Adian, Takuma and Kaden) 
